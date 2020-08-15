@@ -19,7 +19,8 @@
     "html-webpack-plugin": "^4.3.0",
     "nodemon": "^2.0.4",
     "uglifyjs-webpack-plugin": "^1.1.6",
-    "webpack": "^4.44.1"
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
